@@ -5,6 +5,12 @@
         "typeinfo": "c",
         "iostream": "cpp",
         "array": "cpp",
-        "initializer_list": "cpp"
+        "initializer_list": "cpp",
+        "limits": "c",
+        "functional": "c",
+        "type_traits": "c",
+        "*.tcc": "c",
+        "tuple": "c",
+        "algorithm": "cpp"
     }
 }
